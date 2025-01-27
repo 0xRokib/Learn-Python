@@ -6,12 +6,12 @@ Welcome to my **Python Learning Journey** repository! This serves as a structure
 
 ## Table of Contents 📚
 
-1. [About](#about-)
-2. [Chapters and Lessons](#chapters-and-lessons-)
-3. [Projects](#projects-)
-4. [Resources](#resources-)
-5. [Contributing](#contributing-)
-6. [License](#license-)
+1. [About](#about-ℹ️)
+2. [Chapters and Lessons](#chapters-and-lessons-📖)
+3. [Projects](#projects-🚀)
+4. [Resources](#resources-📚)
+5. [Contributing](#contributing-🤝)
+6. [License](#license-📄)
 
 ---
 
@@ -23,45 +23,47 @@ This repository is designed to document my Python learning journey in an organiz
 
 ## Chapters and Lessons 📖
 
-### Chapter 1: Introduction to Python
+### **Chapter 1: Introduction to Python**
 
-- **Lesson 1.1: Overview of Python**  
-  Learn about Python's history, features, and real-world use cases.
+#### Lesson 1.1: Overview of Python
 
-  - Lesson: [`lesson1.1.md`](lessons/chapter1/lesson1.1.md)
-  - Code: [`chapter1/`](code/chapter1/)
+- 📄 **Description**: Learn about Python's history, features, and real-world use cases.
+- 📂 **Lesson File**: [Lesson 1.1](lessons/chapter1/lesson1.1.md)
+- 🖥️ **Code Examples**: [View Code](code/chapter1/)
 
-- **Lesson 1.2: Setting Up the Environment**  
-  Step-by-step guide to installing Python and preparing your development environment.
+#### Lesson 1.2: Setting Up the Environment
 
-  - Lesson: [`lesson1.2.md`](lessons/chapter1/lesson1.2.md)
-  - Code: [`chapter1/`](code/chapter1/)
+- 📄 **Description**: Step-by-step guide to installing Python and preparing your development environment.
+- 📂 **Lesson File**: [Lesson 1.2](lessons/chapter1/lesson1.2.md)
+- 🖥️ **Code Examples**: [View Code](code/chapter1/)
 
-- **Lesson 1.3: Writing Your First Python Program**  
-  Write and run your first Python program.
-  - Lesson: Not yet created
-  - Code: [`chapter1/`](code/chapter1/)
+#### Lesson 1.3: Writing Your First Python Program
+
+- 📄 **Description**: Write and run your first Python program.
+- 📂 **Lesson File**: _Not yet created_
+- 🖥️ **Code Examples**: [View Code](code/chapter1/)
 
 ---
 
-### Chapter 2: Basic Syntax and Data Types
+### **Chapter 2: Basic Syntax and Data Types**
 
-- **Lesson 2.1: Variables and Data Types**  
-  Learn about variables, data types, and type conversion.
+#### Lesson 2.1: Variables and Data Types
 
-  - Lesson: Not yet created
-  - Code: [`chapter2/`](code/chapter2/)
+- 📄 **Description**: Learn about variables, data types, and type conversion.
+- 📂 **Lesson File**: _Not yet created_
+- 🖥️ **Code Examples**: [View Code](code/chapter2/)
 
-- **Lesson 2.2: Operators**  
-  Understand arithmetic, comparison, and logical operators.
+#### Lesson 2.2: Operators
 
-  - Lesson: Not yet created
-  - Code: [`chapter2/`](code/chapter2/)
+- 📄 **Description**: Understand arithmetic, comparison, and logical operators.
+- 📂 **Lesson File**: _Not yet created_
+- 🖥️ **Code Examples**: [View Code](code/chapter2/)
 
-- **Lesson 2.3: Input and Output**  
-  Master taking user input and displaying output.
-  - Lesson: Not yet created
-  - Code: [`chapter2/`](code/chapter2/)
+#### Lesson 2.3: Input and Output
+
+- 📄 **Description**: Master taking user input and displaying output.
+- 📂 **Lesson File**: _Not yet created_
+- 🖥️ **Code Examples**: [View Code](code/chapter2/)
 
 _(More chapters and lessons coming soon!)_
 
@@ -72,12 +74,12 @@ _(More chapters and lessons coming soon!)_
 ### Project 1: [Project Name]
 
 - **Description**: A brief description of the project.
-- **Code**: [`project1/`](projects/project1/)
+- **Code**: [View Project Code](projects/project1/)
 
 ### Project 2: [Project Name]
 
 - **Description**: A brief description of the project.
-- **Code**: [`project2/`](projects/project2/)
+- **Code**: [View Project Code](projects/project2/)
 
 _(More projects to come!)_
 

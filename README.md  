@@ -28,17 +28,17 @@ This repository is designed to document my Python learning journey in an organiz
 - **Lesson 1.1: Overview of Python**  
   Learn about Python's history, features, and real-world use cases.  
   - Lesson: [`lesson1.1.md`](lessons/chapter1/lesson1.1.md)  
-  - Code: [`hello_world.py`](code/chapter1/hello_world.py)
+  - Code: [`chapter1/`](code/chapter1/)
 
 - **Lesson 1.2: Setting Up the Environment**  
   Step-by-step guide to installing Python and preparing your development environment.  
   - Lesson: [`lesson1.2.md`](lessons/chapter1/lesson1.2.md)  
-  - Code: [`environment_setup.py`](code/chapter1/environment_setup.py)
+  - Code: [`chapter1/`](code/chapter1/)
 
 - **Lesson 1.3: Writing Your First Python Program**  
   Write and run your first Python program.  
-  - Lesson: [`lesson1.3.md`](lessons/chapter1/lesson1.3.md)  
-  - Code: [`first_program.py`](code/chapter1/first_program.py)
+  - Lesson: Not yet created  
+  - Code: [`chapter1/`](code/chapter1/)
 
 ---
 
@@ -46,18 +46,18 @@ This repository is designed to document my Python learning journey in an organiz
 
 - **Lesson 2.1: Variables and Data Types**  
   Learn about variables, data types, and type conversion.  
-  - Lesson: [`lesson2.1.md`](lessons/chapter2/lesson2.1.md)  
-  - Code: [`variables.py`](code/chapter2/variables.py)
+  - Lesson: Not yet created  
+  - Code: [`chapter2/`](code/chapter2/)
 
 - **Lesson 2.2: Operators**  
   Understand arithmetic, comparison, and logical operators.  
-  - Lesson: [`lesson2.2.md`](lessons/chapter2/lesson2.2.md)  
-  - Code: [`operators.py`](code/chapter2/operators.py)
+  - Lesson: Not yet created  
+  - Code: [`chapter2/`](code/chapter2/)
 
 - **Lesson 2.3: Input and Output**  
   Master taking user input and displaying output.  
-  - Lesson: [`lesson2.3.md`](lessons/chapter2/lesson2.3.md)  
-  - Code: [`input_output.py`](code/chapter2/input_output.py)
+  - Lesson: Not yet created  
+  - Code: [`chapter2/`](code/chapter2/)
 
 *(More chapters and lessons coming soon!)*
 

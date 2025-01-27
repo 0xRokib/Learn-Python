@@ -1,0 +1,94 @@
+# Python Learning Journey 🐍
+
+Welcome to my Python Learning Journey repository! This repository serves as a comprehensive documentation of my progress as I learn Python. Each chapter and lesson is meticulously documented to help me track my progress and serve as a reference for future learning.
+
+## Table of Contents 📚
+
+- [About](#about)
+- [Chapters and Lessons](#chapters-and-lessons)
+- [Resources](#resources)
+- [Contributing](#contributing)
+- [License](#license)
+
+## About ℹ️
+
+This repository is a personal project where I document my journey of learning Python. Whether you're a beginner like me or an experienced developer, feel free to explore, contribute, or use this as a reference.
+
+## Chapters and Lessons 📖
+
+Here is a list of chapters and their corresponding lessons that I have covered in my Python learning journey:
+
+### Chapter 1: Introduction to Python
+- **[Lesson 1.1: Overview of Python](lessons/chapter1/lesson1.1.md)**  
+  Learn about Python's history, features, and use cases.  
+  [View Code](../code/chapter1/hello_world.py)
+
+- **[Lesson 1.2: Setting up the Environment](lessons/chapter1/lesson1.2.md)**  
+  Step-by-step guide to installing Python and setting up your development environment.  
+  [View Code](../code/chapter1/environment_setup.py)
+
+- **[Lesson 1.3: Writing Your First Python Program](lessons/chapter1/lesson1.3.md)**  
+  Write and run your first Python program.  
+  [View Code](../code/chapter1/first_program.py)
+
+### Chapter 2: Basic Syntax and Data Types
+- **[Lesson 2.1: Variables and Data Types](lessons/chapter2/lesson2.1.md)**  
+  Understand variables, data types, and type conversion.  
+  [View Code](../code/chapter2/variables.py)
+
+- **[Lesson 2.2: Operators](lessons/chapter2/lesson2.2.md)**  
+  Explore arithmetic, comparison, and logical operators.  
+  [View Code](../code/chapter2/operators.py)
+
+- **[Lesson 2.3: Input and Output](lessons/chapter2/lesson2.3.md)**  
+  Learn how to take user input and display output.  
+  [View Code](../code/chapter2/input_output.py)
+
+### Chapter 3: Control Flow
+- **[Lesson 3.1: Conditional Statements](lessons/chapter3/lesson3.1.md)**  
+  Use `if`, `elif`, and `else` to control program flow.  
+  [View Code](../code/chapter3/conditionals.py)
+
+- **[Lesson 3.2: Loops](lessons/chapter3/lesson3.2.md)**  
+  Master `for` and `while` loops for repetitive tasks.  
+  [View Code](../code/chapter3/loops.py)
+
+- **[Lesson 3.3: Exception Handling](lessons/chapter3/lesson3.3.md)**  
+  Handle errors and exceptions gracefully.  
+  [View Code](../code/chapter3/exception_handling.py)
+
+*(Continue adding chapters and lessons as you progress)*
+
+## Resources 📚
+
+Here are some resources that have been invaluable in my learning journey:
+
+- **Books:**
+  - *Automate the Boring Stuff with Python* by Al Sweigart
+  - *Python Crash Course* by Eric Matthes
+
+- **Online Courses:**
+  - [Python for Everybody](https://www.coursera.org/specializations/python) on Coursera
+  - [Real Python](https://realpython.com/)
+
+- **Websites:**
+  - [Python Official Documentation](https://docs.python.org/3/)
+  - [W3Schools Python Tutorial](https://www.w3schools.com/python/)
+
+## Contributing 🤝
+
+If you find any errors, have suggestions, or want to contribute to this repository, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License 📄
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Happy Coding! 🚀

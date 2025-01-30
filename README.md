@@ -35,7 +35,7 @@ This repository documents my Python learning in an organized, practical way with
 
 ### **Chapter 5 - User Input & Control Flow**
 
-- 📂 [Lesson](lessons/chapter5/lesson1.md) | 🖥️ [Code](code/chapter5/)
+- 📂 [Lesson](lessons/chapter5/lesson1.md) | 🖥️ [Code](code/chapter5/rps_game.py)
 
 ### **Chapter 6 - Lists & Tuples**
 

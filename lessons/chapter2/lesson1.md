@@ -1,88 +1,75 @@
-# Setting Up Python with VS Code
+# Python Basics
 
-This guide will help you set up Python in Visual Studio Code (VS Code) and run a simple "Hello, World!" program.
+## 1. Variables in Python
 
-## Prerequisites
+A **variable** is a named storage for data in Python.
 
-Make sure you have the following installed:
-
-1. **[Python](https://www.python.org/downloads/)** (Ensure you check "Add Python to PATH" during installation)
-2. **[Visual Studio Code](https://code.visualstudio.com/Download)**
-3. **Python Extension for VS Code** (Install via the Extensions Marketplace)
-
-## Step 1: Verify Python Installation
-
-After installing Python, open a terminal (Command Prompt, PowerShell, or macOS/Linux terminal) and run:
-
-```sh
-python --version
-```
-
-or
-
-```sh
-python3 --version
-```
-
-You should see an output like `Python 3.x.x`. If not, check your installation.
-
-## Step 2: Install Python Extension in VS Code
-
-1. Open VS Code
-2. Go to **Extensions** (`Ctrl+Shift+X` / `Cmd+Shift+X` on Mac)
-3. Search for **Python** and install the one from Microsoft
-
-## Step 3: Create a Python File
-
-1. Open a folder in VS Code where you want to create your project.
-2. Create a new file called `hello.py`.
-3. Add the following code:
+### Example from the given code:
 
 ```python
-print("Hello, World!")
+line01 = "********************"  # header/footer
+line02 = "*                  *"  # re-use
+line03 = "*     WELCOME!     *"
 ```
 
-## Step 4: Run the Python Script
+Here, `line01`, `line02`, and `line03` store string values.
 
-### Using the VS Code Terminal
+## 2. Variable Naming Convention
 
-1. Open the terminal in VS Code (` Ctrl+`` / Cmd+`` on Mac `)
-2. Navigate to the directory containing `hello.py` (if not already there)
-3. Run the script using:
+Follow these best practices when naming variables:
 
-   ```sh
-   python hello.py
-   ```
+- Use descriptive names.
+- Use lowercase letters with underscores (snake_case).
+- Avoid Python keywords as variable names.
+- Start with a letter or underscore, not a number.
 
-   or
+**Examples:**
 
-   ```sh
-   python3 hello.py
-   ```
-
-### Using the VS Code Run Button
-
-1. Click the **Run** button at the top right or press `F5`
-2. Select "Python File" as the environment if prompted.
-3. You should see `Hello, World!` printed in the terminal.
-
-## Step 5: Set Up Virtual Environment (Optional, but Recommended)
-
-To manage dependencies effectively, set up a virtual environment:
-
-```sh
-python -m venv venv
+```python
+valid_variable = "Hello"
+_valid_variable = "World"
 ```
 
-Activate it:
+## 3. Expressions vs Statements
 
-- **Windows:** `venv\Scripts\activate`
-- **macOS/Linux:** `source venv/bin/activate`
+- **Expression**: Code that evaluates to a value.
+- **Statement**: A complete instruction performing an action.
 
-Now, you can install dependencies inside this environment using `pip install <package>`.
+### Example:
 
-## Conclusion
+```python
+line01 = "********************"  # Assignment statement
+print(line01)  # Print statement
+```
 
-You have successfully set up Python in VS Code and run a simple script! 🎉
+- `"********************"` is an **expression**.
+- The assignment and `print()` calls are **statements**.
 
-For more, check out the [official VS Code Python documentation](https://code.visualstudio.com/docs/python/python-tutorial).
+## 4. Comments in Python
+
+Comments start with `#` and are ignored during execution. They explain the code.
+
+### Example:
+
+```python
+# Print a blank line
+print('')
+```
+
+## 5. Indentation in Python
+
+Python uses indentation to define blocks of code.
+
+### Example:
+
+```python
+if True:
+    print("This is indented correctly")
+```
+
+Incorrect indentation causes an error:
+
+```python
+if True:
+print("This will cause an error")
+```

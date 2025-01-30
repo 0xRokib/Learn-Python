@@ -27,7 +27,7 @@ This repository documents my Python learning in an organized, practical way with
 
 ### **Chapter 3 - Operators**
 
-- 📂 [Lesson](lessons/chapter3/lesson1.md) | 🖥️ [Code](code/chapter3/)
+- 📂 [Lesson](lessons/chapter3/lesson1.md) | 🖥️ [Code](code/chapter3/meaning.py)
 
 ### **Chapter 4 - Data Types**
 

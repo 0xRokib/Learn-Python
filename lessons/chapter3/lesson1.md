@@ -114,3 +114,15 @@ print('')
 # Ternary Operator
 print('Right on!') if meaning > 10 else print('Not today')
 ```
+
+## Rounding Function
+
+### `round()`
+
+The `round()` function rounds a floating-point number to a specified number of decimal places. If no number of decimals is specified, it rounds to the nearest integer.
+
+```python
+num = 4.56789
+print(round(num, 2))  # Output: 4.57
+print(round(num))     # Output: 5
+```

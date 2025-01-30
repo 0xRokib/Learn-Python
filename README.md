@@ -26,7 +26,7 @@ This repository is designed to document my Python learning journey in an organiz
 ### **Chapter 1:Introduction & Setup**
 
 - 📂 **Lesson File**: [Lesson 1](lessons/chapter1/lesson1.md)
-- 🖥️ **Code Examples**: [View Code](code/chapter1/)
+- 🖥️ **Code Examples**: [View Code](code/chapter1/hello.py)
 
 ### **Chapter 2:Introduction & Setup**
 

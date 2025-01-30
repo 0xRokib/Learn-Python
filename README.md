@@ -31,7 +31,7 @@ This repository documents my Python learning in an organized, practical way with
 
 ### **Chapter 4 - Data Types**
 
-- 📂 [Lesson](lessons/chapter4/lesson1.md) | 🖥️ [Code](code/chapter4/)
+- 📂 [Lesson](lessons/chapter4/lesson1.md) | 🖥️ [Code](code/chapter4/data_types.py)
 
 ### **Chapter 5 - User Input & Control Flow**
 

@@ -45,6 +45,16 @@ print(line01)  # Print statement
 - `"********************"` is an **expression**.
 - The assignment and `print()` calls are **statements**.
 
+### Additional Example of an Expression:
+
+```python
+result = 2 + 2
+print(result)
+```
+
+- `2 + 2` is an **expression** because it evaluates to `4`.
+- `result = 2 + 2` is a **statement** as it performs an assignment.
+
 ## 4. Comments in Python
 
 Comments start with `#` and are ignored during execution. They explain the code.
@@ -73,3 +83,19 @@ Incorrect indentation causes an error:
 if True:
 print("This will cause an error")
 ```
+
+## 6. Running Python Code in VS Code Terminal
+
+To check the output of your Python script in Visual Studio Code (VS Code) terminal:
+
+1. Open VS Code and create a new file named `welcome.py`.
+2. Write your Python code in the file.
+3. Save the file (`Ctrl + S` or `Cmd + S` on Mac).
+4. Open the terminal in VS Code (`Ctrl + \`` or go to **View > Terminal**).
+5. Navigate to the directory where your file is located using `cd` command.
+6. Run the Python script using:
+   ```sh
+   python welcome.py   # For Windows
+   python3 welcome.py  # For macOS/Linux
+   ```
+7. You should see the output in the terminal.

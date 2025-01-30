@@ -23,23 +23,18 @@ This repository is designed to document my Python learning journey in an organiz
 
 ## Chapters and Lessons 📖
 
-### **Chapter 1: Introduction to Python**
+### **Chapter 1:Introduction & Setup**
 
-#### Lesson 1.1: Overview of Python
-
-- 📄 **Description**: Learn about Python's history, features, and real-world use cases.
-- 📂 **Lesson File**: [Lesson 1.1](lessons/chapter1/lesson1.1.md)
+- 📂 **Lesson File**: [Lesson 1](lessons/chapter1/lesson1.md)
 - 🖥️ **Code Examples**: [View Code](code/chapter1/)
 
-#### Lesson 1.2: Setting Up the Environment
+### **Chapter 2:Introduction & Setup**
 
-- 📄 **Description**: Step-by-step guide to installing Python and preparing your development environment.
-- 📂 **Lesson File**: [Lesson 1.2](lessons/chapter1/lesson1.2.md)
+- 📂 **Lesson File**: [Lesson 1](lessons/chapter1/lesson1.2.md)
 - 🖥️ **Code Examples**: [View Code](code/chapter1/)
 
-#### Lesson 1.3: Writing Your First Python Program
+### **Chapter 3:Introduction & Setup**
 
-- 📄 **Description**: Write and run your first Python program.
 - 📂 **Lesson File**: _Not yet created_
 - 🖥️ **Code Examples**: [View Code](code/chapter1/)
 

@@ -28,39 +28,35 @@ This repository is designed to document my Python learning journey in an organiz
 - 📂 **Lesson File**: [Lesson 1](lessons/chapter1/lesson1.md)
 - 🖥️ **Code Examples**: [View Code](code/chapter1/hello.py)
 
-### **Chapter 2:Introduction & Setup**
+### **Chapter 2 - Python Basics**
+
+- 📂 **Lesson File**: [Lesson 1](lessons/chapter1/lesson1.md)
+- 🖥️ **Code Examples**: [View Code](code/chapter1/)
+
+### **Chapter 3 - Python Operators**
 
 - 📂 **Lesson File**: [Lesson 1](lessons/chapter1/lesson1.2.md)
 - 🖥️ **Code Examples**: [View Code](code/chapter1/)
 
-### **Chapter 3:Introduction & Setup**
+### **Chapter 4 - Basic Data Types**
 
-- 📂 **Lesson File**: _Not yet created_
+- 📂 **Lesson File**: [Lesson 1](lessons/chapter1/lesson1.2.md)
 - 🖥️ **Code Examples**: [View Code](code/chapter1/)
 
----
+### **Chapter 5 - User Input & Control Flow**
 
-### **Chapter 2: Basic Syntax and Data Types**
+- 📂 **Lesson File**: [Lesson 1](lessons/chapter1/lesson1.2.md)
+- 🖥️ **Code Examples**: [View Code](code/chapter1/)
 
-#### Lesson 2.1: Variables and Data Types
+### **Chapter 6 - Lists & Tuples**
 
-- 📄 **Description**: Learn about variables, data types, and type conversion.
-- 📂 **Lesson File**: _Not yet created_
-- 🖥️ **Code Examples**: [View Code](code/chapter2/)
+- 📂 **Lesson File**: [Lesson 1](lessons/chapter1/lesson1.2.md)
+- 🖥️ **Code Examples**: [View Code](code/chapter1/)
 
-#### Lesson 2.2: Operators
+### **Chapter 7 - Dictionaries & Sets**
 
-- 📄 **Description**: Understand arithmetic, comparison, and logical operators.
-- 📂 **Lesson File**: _Not yet created_
-- 🖥️ **Code Examples**: [View Code](code/chapter2/)
-
-#### Lesson 2.3: Input and Output
-
-- 📄 **Description**: Master taking user input and displaying output.
-- 📂 **Lesson File**: _Not yet created_
-- 🖥️ **Code Examples**: [View Code](code/chapter2/)
-
-_(More chapters and lessons coming soon!)_
+- 📂 **Lesson File**: [Lesson 1](lessons/chapter1/lesson1.2.md)
+- 🖥️ **Code Examples**: [View Code](code/chapter1/)
 
 ---
 

@@ -23,7 +23,7 @@ This repository documents my Python learning in an organized, practical way with
 
 ### **Chapter 2 - Python Basics**
 
-- 📂 [Lesson](lessons/chapter2/lesson1.md) | 🖥️ [Code](code/chapter2/)
+- 📂 [Lesson](lessons/chapter2/lesson1.md) | 🖥️ [Code](code/chapter2/welcome.py)
 
 ### **Chapter 3 - Operators**
 

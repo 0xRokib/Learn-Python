@@ -1,87 +1,70 @@
 # Python Learning Journey 🐍
 
-Welcome to my **Python Learning Journey** repository! This serves as a structured guide documenting my progress while learning Python. Whether you're just starting or already experienced, feel free to explore, contribute, or use this repository as a resource to grow your Python skills.
+Welcome to my **Python Learning Journey** repository! This serves as a structured guide to document my progress in learning Python. Whether you're a beginner or an experienced developer, feel free to explore, contribute, or use this as a resource.
 
----
+## 📚 Table of Contents
 
-## Table of Contents 📚
+- [About](#-about)
+- [Chapters & Lessons](#-chapters--lessons)
+- [Projects](#-projects)
+- [Resources](#-resources)
+- [Contributing](#-contributing)
+- [License](#-license)
 
-1. [About](#about-ℹ️)
-2. [Chapters and Lessons](#chapters-and-lessons-📖)
-3. [Projects](#projects-🚀)
-4. [Resources](#resources-📚)
-5. [Contributing](#contributing-🤝)
-6. [License](#license-📄)
+## ℹ️ About
 
----
+This repository documents my Python learning in an organized, practical way with lesson notes, code examples, real-world projects, and curated resources. The goal is to build a strong foundation while solving problems and working on projects.
 
-## About ℹ️
+## 📖 Chapters & Lessons
 
-This repository is designed to document my Python learning journey in an organized and practical manner. It includes detailed lesson notes, code examples, real-world projects, and curated resources. The goal is to build a strong foundation while solving problems and creating projects that solidify understanding.
+### **Chapter 1 - Introduction & Setup**
 
----
-
-## Chapters and Lessons 📖
-
-### **Chapter 1:Introduction & Setup**
-
-- 📂 **Lesson File**: [Lesson 1](lessons/chapter1/lesson1.md)
-- 🖥️ **Code Examples**: [View Code](code/chapter1/hello.py)
+- 📂 [Lesson](lessons/chapter1/lesson1.md) | 🖥️ [Code](code/chapter1/hello.py)
 
 ### **Chapter 2 - Python Basics**
 
-- 📂 **Lesson File**: [Lesson 1](lessons/chapter1/lesson1.md)
-- 🖥️ **Code Examples**: [View Code](code/chapter1/)
+- 📂 [Lesson](lessons/chapter2/lesson1.md) | 🖥️ [Code](code/chapter2/)
 
-### **Chapter 3 - Python Operators**
+### **Chapter 3 - Operators**
 
-- 📂 **Lesson File**: [Lesson 1](lessons/chapter1/lesson1.2.md)
-- 🖥️ **Code Examples**: [View Code](code/chapter1/)
+- 📂 [Lesson](lessons/chapter3/lesson1.md) | 🖥️ [Code](code/chapter3/)
 
-### **Chapter 4 - Basic Data Types**
+### **Chapter 4 - Data Types**
 
-- 📂 **Lesson File**: [Lesson 1](lessons/chapter1/lesson1.2.md)
-- 🖥️ **Code Examples**: [View Code](code/chapter1/)
+- 📂 [Lesson](lessons/chapter4/lesson1.md) | 🖥️ [Code](code/chapter4/)
 
 ### **Chapter 5 - User Input & Control Flow**
 
-- 📂 **Lesson File**: [Lesson 1](lessons/chapter1/lesson1.2.md)
-- 🖥️ **Code Examples**: [View Code](code/chapter1/)
+- 📂 [Lesson](lessons/chapter5/lesson1.md) | 🖥️ [Code](code/chapter5/)
 
 ### **Chapter 6 - Lists & Tuples**
 
-- 📂 **Lesson File**: [Lesson 1](lessons/chapter1/lesson1.2.md)
-- 🖥️ **Code Examples**: [View Code](code/chapter1/)
+- 📂 [Lesson](lessons/chapter6/lesson1.md) | 🖥️ [Code](code/chapter6/)
 
 ### **Chapter 7 - Dictionaries & Sets**
 
-- 📂 **Lesson File**: [Lesson 1](lessons/chapter1/lesson1.2.md)
-- 🖥️ **Code Examples**: [View Code](code/chapter1/)
+- 📂 [Lesson](lessons/chapter7/lesson1.md) | 🖥️ [Code](code/chapter7/)
 
----
+## 🚀 Projects
 
-## Projects 🚀
+### Project 1: **[Project Name]**
 
-### Project 1: [Project Name]
+- **Description**: A brief description.
+- 🖥️ [View Code](projects/project1/)
 
-- **Description**: A brief description of the project.
-- **Code**: [View Project Code](projects/project1/)
+### Project 2: **[Project Name]**
 
-### Project 2: [Project Name]
+- **Description**: A brief description.
+- 🖥️ [View Code](projects/project2/)
 
-- **Description**: A brief description of the project.
-- **Code**: [View Project Code](projects/project2/)
+_(More projects coming soon!)_
 
-_(More projects to come!)_
-
----
-
-## Resources 📚
+## 📚 Resources
 
 ### Books
 
-- _Automate the Boring Stuff with Python_ by Al Sweigart
-- _Python Crash Course_ by Eric Matthes
+- _Automate the Boring Stuff with Python_ - Al Sweigart
+- _Python Crash Course_ - Eric Matthes
 
 ### Online Courses
 
@@ -90,29 +73,25 @@ _(More projects to come!)_
 
 ### Websites
 
-- [Python Official Documentation](https://docs.python.org/3/)
-- [W3Schools Python Tutorial](https://www.w3schools.com/python/)
+- [Python Docs](https://docs.python.org/3/)
+- [W3Schools Python](https://www.w3schools.com/python/)
 
----
+## 🤝 Contributing
 
-## Contributing 🤝
-
-Contributions are welcome! If you have ideas, suggestions, or corrections, feel free to contribute by following these steps:
+Contributions are welcome! To contribute:
 
 1. **Fork the repository**
-2. **Create a new branch** (`git checkout -b feature/YourFeatureName`)
-3. **Commit your changes** (`git commit -m 'Add your feature'`)
-4. **Push to the branch** (`git push origin feature/YourFeatureName`)
+2. **Create a branch** (`git checkout -b feature/YourFeature`)
+3. **Commit your changes** (`git commit -m 'Add feature'`)
+4. **Push the branch** (`git push origin feature/YourFeature`)
 5. **Open a Pull Request**
 
-Your contributions are appreciated and will help improve this resource for everyone!
+Your contributions help improve this resource for everyone!
 
----
-
-## License 📄
+## 📄 License
 
 This repository is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-Happy Learning and Coding! 🌐
+Happy Learning & Coding! 🚀

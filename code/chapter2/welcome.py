@@ -1,5 +1,5 @@
-line01 = "********************"  # header / footer
-line02 = "*                  *"  # re-use
+line01 = "********************"  
+line02 = "*                  *"  
 line03 = "*     WELCOME!     *"
 
 

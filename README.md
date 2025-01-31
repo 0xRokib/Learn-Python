@@ -39,7 +39,7 @@ This repository documents my Python learning in an organized, practical way with
 
 ### **Chapter 6 - Lists & Tuples**
 
-- 📂 [Lesson](lessons/chapter6/lesson1.md) | 🖥️ [Code](code/chapter6/)
+- 📂 [Lesson](lessons/chapter6/lesson1.md) | 🖥️ [Code](code/chapter6/lists.py)
 
 ### **Chapter 7 - Dictionaries & Sets**
 

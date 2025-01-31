@@ -47,16 +47,16 @@ This repository documents my Python learning in an organized, practical way with
 
 ## 🚀 Projects
 
-### Project 1: **[BookBot]**
+### Project 1: **BookBot**
 
-- **Description**: A brief description.
-- 🖥️ [View Code](projects/project1/)
+- **Description**: BookBot is a simple Python program that analyzes a text file, counts the number of words, and calculates the frequency of each character in the text. This program is designed to work with any book or text file.
+- 🖥️ [View Code](https://github.com/rokib97/bookbot)
 
 ### Project 2: **[Project Name]**
 
-- **Description**: BookBot is a simple Python program that analyzes a text file, counts the number of words, and calculates the frequency of each character in the text. This program is designed to work with any book or text file.
+- **Description**: A brief description.
 
-- 🖥️ [View Code](https://github.com/rokib97/bookbot)
+- 🖥️ [View Code]()
 
 _(More projects coming soon!)_
 

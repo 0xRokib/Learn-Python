@@ -43,7 +43,7 @@ This repository documents my Python learning in an organized, practical way with
 
 ### **Chapter 7 - Dictionaries & Sets**
 
-- 📂 [Lesson](lessons/chapter7/lesson1.md) | 🖥️ [Code](code/chapter7/)
+- 📂 [Lesson](lessons/chapter7/lesson1.md) | 🖥️ [Code](code/chapter7/dictionaries.py)
 
 ## 🚀 Projects
 

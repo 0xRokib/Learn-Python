@@ -45,6 +45,10 @@ This repository documents my Python learning in an organized, practical way with
 
 - 📂 [Lesson](lessons/chapter7/lesson1.md) | 🖥️ [Code](code/chapter7/dictionaries.py)
 
+### **Chapter 8 - While Loops & For Loops**
+
+- 📂 [Lesson](lessons/chapter7/lesson1.md) | 🖥️ [Code](code/chapter8/loops.py)
+
 ## 🚀 Projects
 
 ### Project 1: **BookBot**

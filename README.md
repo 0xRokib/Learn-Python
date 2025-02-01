@@ -53,6 +53,10 @@ This repository documents my Python learning in an organized, practical way with
 
 - 📂 [Lesson](lessons/chapter9/lesson1.md) | 🖥️ [Code](code/chapter9/functions.py)
 
+### **Chapter 10 - Recursion**
+
+- 📂 [Lesson](lessons/chapter10/lesson1.md) | 🖥️ [Code](code/chapter10/recursion.py)
+
 ## 🚀 Projects
 
 ### Project 1: **BookBot**

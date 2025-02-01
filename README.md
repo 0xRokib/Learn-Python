@@ -49,6 +49,10 @@ This repository documents my Python learning in an organized, practical way with
 
 - 📂 [Lesson](lessons/chapter8/lesson1.md) | 🖥️ [Code](code/chapter8/loops.py)
 
+### **Chapter 9 - Functions**
+
+- 📂 [Lesson](lessons/chapter9/lesson1.md) | 🖥️ [Code](code/chapter9/functions.py)
+
 ## 🚀 Projects
 
 ### Project 1: **BookBot**

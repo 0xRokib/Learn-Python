@@ -67,7 +67,7 @@ This repository documents my Python learning in an organized, practical way with
 
 ### **Chapter 13 - f-Strings**
 
-- 📂 [Lesson](lessons/chapter12/lesson1.md) | 🖥️ [Code](code/chapter12/)
+- 📂 [Lesson](lessons/chapter13/lesson1.md) | 🖥️ [Code](code/chapter13/f_string.py)
 
 ### **Chapter 14 - Modules**
 

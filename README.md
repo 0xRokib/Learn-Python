@@ -63,7 +63,7 @@ This repository documents my Python learning in an organized, practical way with
 
 ### **Chapter 12 - Closures**
 
-- 📂 [Lesson](lessons/chapter12/lesson1.md) | 🖥️ [Code](code/chapter12/)
+- 📂 [Lesson](lessons/chapter12/lesson1.md) | 🖥️ [Code](code/chapter12/closure.py)
 
 ### **Chapter 13 - f-Strings**
 

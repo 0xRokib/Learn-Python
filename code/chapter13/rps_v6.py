@@ -48,9 +48,9 @@ def rps():
         nonlocal game_count
         game_count += 1
         
-        print(f"\nGame Count: {str(game_count)}")
-        print(f"\nPlayer Wins: {str(player_wins)}")
-        print(f"\nPython Wins: {str(python_wins)}")
+        print(f"\nGame Count: {game_count}")
+        print(f"\nPlayer Wins: {player_wins}")
+        print(f"\nPython Wins: {python_wins}")
 
         # Ask if the player wants to play again
         playagain = input("\nPlay again? (Y for Yes, Q to Quit): ").strip().lower()

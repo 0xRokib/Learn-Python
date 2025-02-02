@@ -71,7 +71,7 @@ This repository documents my Python learning in an organized, practical way with
 
 ### **Chapter 14 - Modules**
 
-- 📂 [Lesson](lessons/chapter13/lesson1.md) | 🖥️ [Code](code/chapter13/)
+- 📂 [Lesson](lessons/chapter14/lesson1.md) | 🖥️ [Code](code/chapter14/modules.py)
 
 ## 🚀 Projects
 

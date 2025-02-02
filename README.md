@@ -73,6 +73,10 @@ This repository documents my Python learning in an organized, practical way with
 
 - 📂 [Lesson](lessons/chapter14/lesson1.md) | 🖥️ [Code](code/chapter14/modules.py)
 
+### **Chapter 15 - Command Line Arguments**
+
+- 📂 [Lesson](lessons/chapter15/lesson1.md) | 🖥️ [Code](code/chapter15/hello_person.py)
+
 ## 🚀 Projects
 
 ### Project 1: **BookBot**

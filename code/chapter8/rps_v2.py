@@ -1,49 +1,57 @@
+# Changes from v1:
+# - Added a loop to allow the player to play multiple games.
+# - Introduced a "play again" prompt (Y to continue, Q to quit).
+# - Improved user experience by adding a thank-you message upon quitting.
+# - Fixed the game to continue or exit based on player input.
+
 import sys
 import random
 from enum import Enum
 
-# Define an enumeration for Rock, Paper, and Scissors choices
+
 class RPS(Enum):
     ROCK = 1
     PAPER = 2
     SCISSORS = 3
-    
-playagain = True  # Flag to control the game loop
+
+
+playagain = True
 
 while playagain:
-    # Prompt the player for input
-    player_choice = input("\nEnter....\n1 for Rock, \n2 for Paper, or \n3 for Scissors:\n\n")
-    
-    # Convert input to integer and validate
-    try:
-        player = int(player_choice)
-        if player not in [1, 2, 3]:
-            sys.exit('You must choose 1, 2, or 3')
-    except ValueError:
-        sys.exit('Invalid input! Please enter a number (1, 2, or 3)')
 
-    # Computer randomly selects Rock, Paper, or Scissors
-    computer = random.randint(1, 3)
+    playerchoice = input(
+        "\nEnter... \n1 for Rock,\n2 for Paper, or \n3 for Scissors:\n\n")
 
-    # Display the choices
-    print(f'You chose {RPS(player).name}.')
-    print(f'Computer chose {RPS(computer).name}.')
+    player = int(playerchoice)
 
-    # Determine the winner based on game rules
-    if (player == 1 and computer == 3) or (player == 2 and computer == 1) or (player == 3 and computer == 2): 
-        print('You win!')
-    elif player == computer:  
-        print('Tie Game!')
-    else: 
-        print('Python wins!')
-        
-    # Ask player if they want to play again
-    playagain = input("\nPlay again? \nY for Yes or \nQ for Quit.\n\n").strip().lower()
-    if playagain == 'y':
+    if player < 1 or player > 3:
+        sys.exit("You must enter 1, 2, or 3.")
+
+    computerchoice = random.choice("123")
+
+    computer = int(computerchoice)
+
+    print("\nYou chose " + str(RPS(player)).replace('RPS.', '').title() + ".")
+    print("Python chose " + str(RPS(computer)).replace('RPS.', '').title() + ".\n")
+
+    if player == 1 and computer == 3:
+        print("🎉 You win!")
+    elif player == 2 and computer == 1:
+        print("🎉 You win!")
+    elif player == 3 and computer == 2:
+        print("🎉 You win!")
+    elif player == computer:
+        print("😲 Tie game!")
+    else:
+        print("🐍 Python wins!")
+
+    playagain = input("\nPlay again? \nY for Yes or \nQ to Quit \n\n")
+
+    if playagain.lower() == "y":
         continue
     else:
-        print("Thank You For Playing the Game!\n")
+        print("\n🎉🎉🎉🎉")
+        print("Thank you for playing!\n")
         playagain = False
 
-# Exit the program
-sys.exit("Bye!")
+sys.exit("Bye! 👋")

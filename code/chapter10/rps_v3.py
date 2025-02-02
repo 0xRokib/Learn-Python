@@ -1,47 +1,64 @@
+# Changes from v2:
+# - Encapsulated the game logic into a function `play_rps()`.
+# - Added input validation for player choice using a list check.
+# - Recursively calls `play_rps()` if the player chooses to play again.
+# - Improved the "play again" loop to handle invalid inputs.
+
 import sys
 import random
 from enum import Enum
 
+
 def play_rps():
-    # Define Rock, Paper, Scissors as an Enum
+
     class RPS(Enum):
         ROCK = 1
         PAPER = 2
         SCISSORS = 3
 
-    # Get player's choice with validation
-    player_choice = input("\nEnter...\n1 for Rock,\n2 for Paper,\n3 for Scissors:\n").strip()
-    
-    if player_choice not in ['1', '2', '3']:
-        print("Invalid input! You must enter 1, 2, or 3.")
-        return play_rps()  # Recursive call for invalid input
+    playerchoice = input(
+        "\nEnter... \n1 for Rock,\n2 for Paper, or \n3 for Scissors:\n\n")
 
-    player = int(player_choice)
-    computer = random.randint(1, 3)
+    if playerchoice not in ["1", "2", "3"]:
+        print("You must enter 1, 2, or 3.")
+        return play_rps()
 
-    # Display choices
-    print(f"\nYou chose {RPS(player).name}.")
-    print(f"Computer chose {RPS(computer).name}.")
+    player = int(playerchoice)
 
-    # Determine winner
-    if (player == 1 and computer == 3) or (player == 2 and computer == 1) or (player == 3 and computer == 2):
+    computerchoice = random.choice("123")
+
+    computer = int(computerchoice)
+
+    print("\nYou chose " + str(RPS(player)).replace('RPS.', '').title() + ".")
+    print("Python chose " + str(RPS(computer)
+                                ).replace('RPS.', '').title() + ".\n")
+
+    if player == 1 and computer == 3:
+        print("🎉 You win!")
+    elif player == 2 and computer == 1:
+        print("🎉 You win!")
+    elif player == 3 and computer == 2:
         print("🎉 You win!")
     elif player == computer:
         print("😲 Tie game!")
     else:
         print("🐍 Python wins!")
 
-    # Ask if the player wants to play again
-    playagain = input("\nPlay again? (Y for Yes, Q to Quit): ").strip().lower()
+    print("\nPlay again?")
 
-    if playagain == 'y':
-        return play_rps()  # Recursive call for replay
-    elif playagain == 'q':
-        print("\n🎉 Thank You For Playing! 🎉\n")
-        sys.exit("Bye! 👋")
+    while True:
+        playagain = input("\nY for Yes or \nQ to Quit\n")
+        if playagain.lower() not in ["y", "q"]:
+            continue
+        else:
+            break
+
+    if playagain.lower() == "y":
+        return play_rps()
     else:
-        print("Invalid input! Enter 'Y' to play again or 'Q' to quit.")
-        return play_rps()  # Recursive call for invalid replay input
+        print("\n🎉🎉🎉🎉")
+        print("Thank you for playing!\n")
+        sys.exit("Bye! 👋")
 
-# Start the game
+
 play_rps()

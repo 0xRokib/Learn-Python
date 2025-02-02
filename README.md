@@ -57,9 +57,13 @@ This repository documents my Python learning in an organized, practical way with
 
 - 📂 [Lesson](lessons/chapter10/lesson1.md) | 🖥️ [Code](code/chapter10/recursion.py)
 
-### **Chapter 12 - Closures**
+### **Chapter 11 - Scope**
 
 - 📂 [Lesson](lessons/chapter11/lesson1.md) | 🖥️ [Code](code/chapter11/scope.py)
+
+### **Chapter 12 - Closures**
+
+- 📂 [Lesson](lessons/chapter12/lesson1.md) | 🖥️ [Code](code/chapter12/)
 
 ### **Chapter 13 - f-Strings**
 

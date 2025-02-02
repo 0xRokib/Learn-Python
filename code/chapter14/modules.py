@@ -4,6 +4,9 @@ import sys  # System-related functions and parameters
 import random as rdm  # Importing random module with alias
 import kansas  # Importing the custom kansas module
 
+# importing the rps module function
+# from rps_v7 import rock_paper_scissors 
+
 # Printing the value of pi
 print(f"Value of pi: {pi}")
 
@@ -25,3 +28,5 @@ print(f"__name__ in modules.py: {type(__name__)}")
 
 # Printing the __name__ attribute of the imported kansas module
 print(f"__name__ in kansas module: {kansas.__name__}")
+
+# rock_paper_scissors() calling the rps game after import

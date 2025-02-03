@@ -77,6 +77,10 @@ This repository documents my Python learning in an organized, practical way with
 
 - 📂 [Lesson](lessons/chapter15/lesson1.md) | 🖥️ [Code](code/chapter15/hello_person.py)
 
+### **Chapter 16 - Errors & Exception Handling**
+
+- 📂 [Lesson](lessons/chapter16/lesson1.md) | 🖥️ [Code](code/chapter16/exceptions.py)
+
 ## 🚀 Projects
 
 ### Project 1: **BookBot**

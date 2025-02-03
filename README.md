@@ -83,7 +83,7 @@ This repository documents my Python learning in an organized, practical way with
 
 ### **Chapter 17 - Working With Files**
 
-- 📂 [Lesson](lessons/chapter17/lesson1.md) | 🖥️ [Code](code/chapter17/exceptions.py)
+- 📂 [Lesson](lessons/chapter17/lesson1.md) | 🖥️ [Code](code/chapter17/files.py)
 
 ## 🚀 Projects
 

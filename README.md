@@ -35,7 +35,7 @@ This repository documents my Python learning in an organized, practical way with
 
 ### **Chapter 5 - User Input & Control Flow**
 
-- 📂 [Lesson](lessons/chapter5/lesson1.md) | 🖥️ [Code](code/chapter5/rps_game.py)
+- 📂 [Lesson](lessons/chapter5/lesson1.md) | 🖥️ [Code](code/chapter5/rps_v1.py)
 
 ### **Chapter 6 - Lists & Tuples**
 
@@ -80,6 +80,10 @@ This repository documents my Python learning in an organized, practical way with
 ### **Chapter 16 - Errors & Exception Handling**
 
 - 📂 [Lesson](lessons/chapter16/lesson1.md) | 🖥️ [Code](code/chapter16/exceptions.py)
+
+### **Chapter 17 - Working With Files**
+
+- 📂 [Lesson](lessons/chapter17/lesson1.md) | 🖥️ [Code](code/chapter17/exceptions.py)
 
 ## 🚀 Projects
 

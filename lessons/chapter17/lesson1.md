@@ -52,6 +52,7 @@ with open(f"{base_path}context.txt", "w") as f:
 - The `"x"` mode creates a file but raises an error if the file already exists.
 
 ```python
+import os
 base_path = "code/chapter17/"
 # Using 'w' mode
 with open(f"{base_path}name_list.txt", "w") as f:
@@ -73,6 +74,7 @@ else:
 - Check if the file exists using `os.path.exists(file_path)` before attempting to delete it.
 
 ```python
+import os
 base_path = "code/chapter17/"
 if os.path.exists(f"{base_path}dave.txt"):
     os.remove(f"{base_path}dave.txt")
@@ -113,7 +115,6 @@ code/
 └── chapter17/
     ├── names.txt
     ├── context.txt
-    ├── name_list.txt
     ├── dave.txt
     └── more_names.txt
 ```

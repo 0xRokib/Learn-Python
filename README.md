@@ -85,6 +85,10 @@ This repository documents my Python learning in an organized, practical way with
 
 - 📂 [Lesson](lessons/chapter17/lesson1.md) | 🖥️ [Code](code/chapter17/files.py)
 
+### **Chapter 18 - Python Virtual Environment & Package Management with pip**
+
+- 📂 [Lesson](lessons/chapter18/lesson1.md) | 🖥️ [Code](code/chapter18/app.py)
+
 ## 🚀 Projects
 
 ### Project 1: **BookBot**

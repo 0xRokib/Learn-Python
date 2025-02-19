@@ -92,7 +92,7 @@ This repository documents my Python learning in an organized, practical way with
 - **Description**: BookBot is a simple Python program that analyzes a text file, counts the number of words, and calculates the frequency of each character in the text. This program is designed to work with any book or text file.
 - 🖥️ [View Code](https://github.com/rokib97/bookbot)
 
-### Project 2: **[Weather App]**
+### Project 2: **Weather App**
 
 - **Description**: A simple command-line interface (CLI) application that provides current weather information for any city using the OpenWeather API..
 

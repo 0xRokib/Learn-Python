@@ -47,7 +47,7 @@ This repository documents my Python learning in an organized, practical way with
 
 ### **Chapter 8 - While Loops & For Loops**
 
-- 📂 [Lesson](lessons/chapter8/lesson1.md) | 🖥️ [Code](code/chapter8/loops.py)
+- 📂 [Lesson](lessons/chapter8/lesson1.md) | 🖥️ [Code](code/chapter8)
 
 ### **Chapter 9 - Functions**
 
@@ -55,27 +55,27 @@ This repository documents my Python learning in an organized, practical way with
 
 ### **Chapter 10 - Recursion**
 
-- 📂 [Lesson](lessons/chapter10/lesson1.md) | 🖥️ [Code](code/chapter10/recursion.py)
+- 📂 [Lesson](lessons/chapter10/lesson1.md) | 🖥️ [Code](code/chapter10)
 
 ### **Chapter 11 - Scope**
 
-- 📂 [Lesson](lessons/chapter11/lesson1.md) | 🖥️ [Code](code/chapter11/scope.py)
+- 📂 [Lesson](lessons/chapter11/lesson1.md) | 🖥️ [Code](code/chapter11)
 
 ### **Chapter 12 - Closures**
 
-- 📂 [Lesson](lessons/chapter12/lesson1.md) | 🖥️ [Code](code/chapter12/closure.py)
+- 📂 [Lesson](lessons/chapter12/lesson1.md) | 🖥️ [Code](code/chapter12)
 
 ### **Chapter 13 - f-Strings**
 
-- 📂 [Lesson](lessons/chapter13/lesson1.md) | 🖥️ [Code](code/chapter13/f_string.py)
+- 📂 [Lesson](lessons/chapter13/lesson1.md) | 🖥️ [Code](code/chapter13)
 
 ### **Chapter 14 - Modules**
 
-- 📂 [Lesson](lessons/chapter14/lesson1.md) | 🖥️ [Code](code/chapter14/modules.py)
+- 📂 [Lesson](lessons/chapter14/lesson1.md) | 🖥️ [Code](code/chapter14)
 
 ### **Chapter 15 - Command Line Arguments**
 
-- 📂 [Lesson](lessons/chapter15/lesson1.md) | 🖥️ [Code](code/chapter15/hello_person.py)
+- 📂 [Lesson](lessons/chapter15/lesson1.md) | 🖥️ [Code](code/chapter15)
 
 ### **Chapter 16 - Errors & Exception Handling**
 
@@ -83,7 +83,7 @@ This repository documents my Python learning in an organized, practical way with
 
 ### **Chapter 17 - Working With Files**
 
-- 📂 [Lesson](lessons/chapter17/lesson1.md) | 🖥️ [Code](code/chapter17/files.py)
+- 📂 [Lesson](lessons/chapter17/lesson1.md) | 🖥️ [Code](code/chapter17)
 
 ### **Chapter 18 - Python Virtual Environment & Package Management with pip**
 
